@@ -1,9 +1,5 @@
 // ./components/ProjectCard.jsx
 
-// import ProjectImage from "./ProjectImage";
-// import ProjectTitle from "./ProjectTitle";
-// import ProjectDescription from "./ProjectDescription";
-
 export default function ProjectCard({ children, highlight }) {
   return (
     <>
