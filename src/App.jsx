@@ -2,12 +2,13 @@
 import "./App.css";
 import Header from "./components/Header";
 import HeroImage from "./components/HeroImage";
-import ProjectCard from "./components/ProjectCard";
+// import ProjectCard from "./components/ProjectCard";
 import ProjectGrid from "./components/ProjectGrid";
 
 function App() {
   return (
     <>
+      Adding something here
       <HeroImage />
       {/* MAIN (Center website) */}
       <div className="main">
